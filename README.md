@@ -1,4 +1,5 @@
 # rod [![Build Status](https://travis-ci.org/yglukhov/rod.svg?branch=master)](https://travis-ci.org/yglukhov/rod)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fforlan-ua%2Frod.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fforlan-ua%2Frod?ref=badge_shield)
 
 Rod is a cross-platform 2d and 3d game engine for Nim.
 
@@ -28,3 +29,7 @@ Supported platforms:
 Build Requirements:
 * Nim latest devel version
 * Nimble package manager
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fforlan-ua%2Frod.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fforlan-ua%2Frod?ref=badge_large)
